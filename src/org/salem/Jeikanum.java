@@ -4,7 +4,7 @@ public class Jeikanum {
 
 	
 	public void love() {
-		System.out.println("Abinaya");
+		System.out.println("karthick");
 
 	}
 
